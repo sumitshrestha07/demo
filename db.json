@@ -4,7 +4,7 @@
       "Name": "IT Support Specialist",
       "Description": "IT Support Specialists are responsible for analyzing, troubleshooting and evaluating technology issues. This role may support internal clients, helping to keep employees productive, or external customers of a company, helping them via the telephone or webchat.",
       "ID": 1,
-      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconitfundamentals.svg?sfvrsn=8196cc4a_4",
+      "Image": "https://test.io/wp-content/uploads/2019/02/testIO-logo-rgb-2.png",
       "BeginnerJobTitles": [
         "Desktop Support Specialist",
         "IT Technician",
@@ -29,7 +29,7 @@
       "Name": "IT Networking Specialist",
       "Description": "IT Networking Specialist analyze, troubleshoot and evaluate computer network problems. More advanced IT pros may be responsible for building and designing communication networks as well.",
       "ID": 2,
-      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconnetworkplus.svg?sfvrsn=70273de8_2",
+      "Image": "https://test.io/wp-content/uploads/2019/02/testIO-logo-rgb-2.png",
       "BeginnerJobTitles": [
         "IT Specialist",
         "Network Support Technician",
@@ -57,7 +57,7 @@
       "Name": "Cybersecurity Specialist",
       "Description": "Cybersecurity Professionals detect cyberthreats and implement changes to protect an organization. A security operations center (SOC) team likely has several tiers of cybersecurity professionals that are responsible for monitoring, directing, containing and remediating IT threats.",
       "ID": 3,
-      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconcybersecurityanalyst.svg?sfvrsn=931672ef_2",
+      "Image": "https://test.io/wp-content/uploads/2019/02/testIO-logo-rgb-2.png",
       "BeginnerJobTitles": [
         "System Administrator",
         "Network Engineer",
@@ -83,7 +83,7 @@
       "Name": "Software and Web Developer",
       "Description": "Software and Web Developers are the creative minds behind computer programs and websites. Some Software Developers develop the applications that allow people to do specific tasks on computers or devices.",
       "ID": 4,
-      "Image": "https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/computer-globe.svg?sfvrsn=c29fb015_4",
+      "Image": "https://test.io/wp-content/uploads/2019/02/testIO-logo-rgb-2.png",
       "BeginnerJobTitles": [
         "Web Developer",
         "Junior Software Developer"
@@ -103,7 +103,7 @@
       "Name": "Data Specialist",
       "Description": "Data Specialists are tasked with overseeing the development of new databases, monitoring database performance and interpreting raw data and turning it into usable feedback and applications.",
       "ID": 5,
-      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconprojectplus.svg?sfvrsn=317b2dbd_2",
+      "Image": "https://test.io/wp-content/uploads/2019/02/testIO-logo-rgb-2.png",
       "BeginnerJobTitles": [
         "Database Specialist",
         "Reporting Analyst",
