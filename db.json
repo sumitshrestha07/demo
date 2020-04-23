@@ -1,14 +1,124 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "CompTIACareerPath": [
+    {
+      "Name": "IT Support Specialist",
+      "Description": "IT Support Specialists are responsible for analyzing, troubleshooting and evaluating technology issues. This role may support internal clients, helping to keep employees productive, or external customers of a company, helping them via the telephone or webchat.",
+      "ID": 1,
+      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconitfundamentals.svg?sfvrsn=8196cc4a_4",
+      "BeginnerJobTitles": [
+        "Desktop Support Specialist",
+        "IT Technician",
+        "Field Service Technician"
+      ],
+      "BeginnerCerts": [
+        "ITF+",
+        "A+",
+        "Partner Certs Needed"
+      ],
+      "IntermediateCerts": [
+        "SEC+",
+        "Partner Certs Needed"
+      ],
+      "AdvancedCerts": [
+        "LINUX+",
+        "SERVER+",
+        "Partner Certs Needed"
+      ]
+    },
+    {
+      "Name": "IT Networking Specialist",
+      "Description": "IT Networking Specialist analyze, troubleshoot and evaluate computer network problems. More advanced IT pros may be responsible for building and designing communication networks as well.",
+      "ID": 2,
+      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconnetworkplus.svg?sfvrsn=70273de8_2",
+      "BeginnerJobTitles": [
+        "IT Specialist",
+        "Network Support Technician",
+        "Junior System Administrator"
+      ],
+      "BeginnerCerts": [
+        "A+",
+        "NET+",
+        "SEC+",
+        "Partner Certs Needed"
+      ],
+      "IntermediateCerts": [
+        "PROJECT+",
+        "CLOUD ESSENTIALS+",
+        "LINUX+",
+        "SERVER+",
+        "Partner Certs Needed"
+      ],
+      "AdvancedCerts": [
+        "CLOUD+",
+        "Partner Certs Needed"
+      ]
+    },
+    {
+      "Name": "Cybersecurity Specialist",
+      "Description": "Cybersecurity Professionals detect cyberthreats and implement changes to protect an organization. A security operations center (SOC) team likely has several tiers of cybersecurity professionals that are responsible for monitoring, directing, containing and remediating IT threats.",
+      "ID": 3,
+      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconcybersecurityanalyst.svg?sfvrsn=931672ef_2",
+      "BeginnerJobTitles": [
+        "System Administrator",
+        "Network Engineer",
+        "Systems Engineer"
+      ],
+      "BeginnerCerts": [
+        "NET+",
+        "SEC+",
+        "Partner Certs Needed"
+      ],
+      "IntermediateCerts": [
+        "PROJECT+",
+        "CYSA+",
+        "PENTEST+",
+        "Partner Certs Needed"
+      ],
+      "AdvancedCerts": [
+        "CASP+",
+        "Partner Certs Needed"
+      ]
+    },
+    {
+      "Name": "Software and Web Developer",
+      "Description": "Software and Web Developers are the creative minds behind computer programs and websites. Some Software Developers develop the applications that allow people to do specific tasks on computers or devices.",
+      "ID": 4,
+      "Image": "https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/computer-globe.svg?sfvrsn=c29fb015_4",
+      "BeginnerJobTitles": [
+        "Web Developer",
+        "Junior Software Developer"
+      ],
+      "BeginnerCerts": [
+        "ITF+",
+        "Partner Certs Needed"
+      ],
+      "IntermediateCerts": [
+        "Partner Certs Needed"
+      ],
+      "AdvancedCerts": [
+        "Partner Certs Needed"
+      ]
+    },
+    {
+      "Name": "Data Specialist",
+      "Description": "Data Specialists are tasked with overseeing the development of new databases, monitoring database performance and interpreting raw data and turning it into usable feedback and applications.",
+      "ID": 5,
+      "Image": "https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/iconprojectplus.svg?sfvrsn=317b2dbd_2",
+      "BeginnerJobTitles": [
+        "Database Specialist",
+        "Reporting Analyst",
+        "Data Analyst"
+      ],
+      "BeginnerCerts": [
+        "ITF+",
+        "Partner Certs Needed"
+      ],
+      "IntermediateCerts": [
+        "Partner Certs Needed"
+      ],
+      "AdvancedCerts": [
+        "Partner Certs Needed"
+      ]
+    }
+  ]
 }
