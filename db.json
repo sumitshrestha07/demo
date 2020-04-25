@@ -6,25 +6,10 @@
       "ID": 1,
       "Icon": "https://t4.ftcdn.net/jpg/02/14/25/19/240_F_214251989_1QbxvWpUScKuSvTF1SvocFllFdSrXCoO.jpg",
       "Image": "https://mediashower.com/img/56F81B28-5183-11E7-A5D9-C447E46FA71D/bigstock-Helpful-Operator-3407694_600x.jpg",
-      "BeginnerJobTitles": [
-        "Desktop Support Specialist",
-        "IT Technician",
-        "Field Service Technician"
-      ],
-      "BeginnerCerts": [
-        "ITF+",
-        "A+",
-        "Partner Certs Needed"
-      ],
-      "IntermediateCerts": [
-        "SEC+",
-        "Partner Certs Needed"
-      ],
-      "AdvancedCerts": [
-        "LINUX+",
-        "SERVER+",
-        "Partner Certs Needed"
-      ]
+      "BeginnerJobTitles": "Desktop Support Specialist, IT Technician, Field Service Technician",
+      "BeginnerCerts": "ITF+, A+, Partner Certs Needed",
+      "IntermediateCerts": "SEC+, Partner Certs Needed",
+      "AdvancedCerts": "LINUX+, SERVER+, Partner Certs Needed"
     },
     {
       "Name": "IT Networking Specialist",
@@ -32,28 +17,10 @@
       "ID": 2,
       "Icon": "https://t4.ftcdn.net/jpg/00/95/23/45/240_F_95234542_6UQb67WTk5wkoX3XXN3UpWWneg7NLvPI.jpg",
       "Image": "https://www.cvtc.edu/CVTC/media/images/news-events/resources/it-network-specialist.jpg?ext=.jpg",
-      "BeginnerJobTitles": [
-        "IT Specialist",
-        "Network Support Technician",
-        "Junior System Administrator"
-      ],
-      "BeginnerCerts": [
-        "A+",
-        "NET+",
-        "SEC+",
-        "Partner Certs Needed"
-      ],
-      "IntermediateCerts": [
-        "PROJECT+",
-        "CLOUD ESSENTIALS+",
-        "LINUX+",
-        "SERVER+",
-        "Partner Certs Needed"
-      ],
-      "AdvancedCerts": [
-        "CLOUD+",
-        "Partner Certs Needed"
-      ]
+      "BeginnerJobTitles": "IT Specialist, Network Support Technician, Junior System Administrator",
+      "BeginnerCerts": "A+, NET+, SEC+, Partner Certs Needed",
+      "IntermediateCerts": "PROJECT+, CLOUD ESSENTIALS+, LINUX+, SERVER+, Partner Certs Needed",
+      "AdvancedCerts": "CLOUD+, Partner Certs Needed"
     },
     {
       "Name": "Cybersecurity Specialist",
@@ -61,26 +28,11 @@
       "ID": 3,
       "Icon": "https://t4.ftcdn.net/jpg/03/33/28/71/240_F_333287111_3h8hFFTGwp289wPwFxmhcLI6bd67UZEO.jpg",
       "Image": "https://www.ecommercetimes.com/article_images/story_graphics_xlarge/xl-2016-cybersecurity-1.jpg",
-      "BeginnerJobTitles": [
-        "System Administrator",
-        "Network Engineer",
-        "Systems Engineer"
-      ],
-      "BeginnerCerts": [
-        "NET+",
-        "SEC+",
-        "Partner Certs Needed"
-      ],
-      "IntermediateCerts": [
-        "PROJECT+",
-        "CYSA+",
-        "PENTEST+",
-        "Partner Certs Needed"
-      ],
-      "AdvancedCerts": [
-        "CASP+",
-        "Partner Certs Needed"
-      ]
+      "BeginnerJobTitles": 
+        "System Administrator, Network Engineer, Systems Engineer",
+      "BeginnerCerts": "NET+, SEC+, Partner Certs Needed",
+      "IntermediateCerts": "PROJECT+, CYSA+, PENTEST+, Partner Certs Needed",
+      "AdvancedCerts": "CASP+, Partner Certs Needed"
     },
     {
       "Name": "Software and Web Developer",
@@ -88,20 +40,10 @@
       "ID": 4,
       "Icon": "https://t3.ftcdn.net/jpg/02/96/27/86/240_F_296278626_6XIPvxESVoPXajiRehxNTg1r9qgpvHZs.jpg",
       "Image": "https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg",
-      "BeginnerJobTitles": [
-        "Web Developer",
-        "Junior Software Developer"
-      ],
-      "BeginnerCerts": [
-        "ITF+",
-        "Partner Certs Needed"
-      ],
-      "IntermediateCerts": [
-        "Partner Certs Needed"
-      ],
-      "AdvancedCerts": [
-        "Partner Certs Needed"
-      ]
+      "BeginnerJobTitles": "Web Developer, Junior Software Developer",
+      "BeginnerCerts": "ITF+, Partner Certs Needed",
+      "IntermediateCerts": "Partner Certs Needed",
+      "AdvancedCerts": "Partner Certs Needed"
     },
     {
       "Name": "Data Specialist",
@@ -109,21 +51,10 @@
       "ID": 5,
       "Icon": "https://t3.ftcdn.net/jpg/03/29/06/76/240_F_329067611_YoZIDUzttXdvz6y7cxAGXJQxZhqB6FAU.jpg",
       "Image": "https://previews.123rf.com/images/enotmaks/enotmaks1411/enotmaks141100010/33601078-flat-illustration-of-data-specialist-with-copy-space-for-text-illustration.jpg",
-      "BeginnerJobTitles": [
-        "Database Specialist",
-        "Reporting Analyst",
-        "Data Analyst"
-      ],
-      "BeginnerCerts": [
-        "ITF+",
-        "Partner Certs Needed"
-      ],
-      "IntermediateCerts": [
-        "Partner Certs Needed"
-      ],
-      "AdvancedCerts": [
-        "Partner Certs Needed"
-      ]
+      "BeginnerJobTitles": "Database Specialist, Reporting Analyst, Data Analyst",
+      "BeginnerCerts": "ITF+, Partner Certs Needed",
+      "IntermediateCerts": "Partner Certs Needed",
+      "AdvancedCerts": "Partner Certs Needed"
     }
   ]
 }
